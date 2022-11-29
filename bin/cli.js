@@ -2,7 +2,7 @@
 
 // import stuff
 import minimist from 'minimist'
-import { roll } from "/lib/roll.js"
+import { roll } from "../lib/roll.js"
 
 // arg const
 const args = minimist(process.argv.slice(2))
